@@ -1,2 +1,0 @@
-print "Alphabetfasdf"
-print "assasaes"
